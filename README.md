@@ -10,7 +10,7 @@ Once the jar file built, it has to be copied in `/standalone/deployments/` Keycl
 
 ## Usage
 
-This new mapper is available in `<Realm>` / Identity Providers / `<Identity Provider > / Mappers / Create / Username mapper
+This new mapper is available in `<Realm>` / Identity Providers / `<Identity Provider>` / Mappers / Create / Username mapper
 
 
 ## Links
