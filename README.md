@@ -1,6 +1,6 @@
 # keycloak-login-mapper
 
-This custom mapper allows to map a custom field to username. In our case, the username should represents the email where the special characters have been removed.
+This custom mapper allows to map a custom field to username. In our case, the username should represent the email where the special characters have been removed.
 
 ## Deployment
 
